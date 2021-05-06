@@ -30,8 +30,5 @@ wanna-zuul: http://localhost:8073/client/hello2
 
 필요하면 바꿔서 쓰면 될 듯 
 
-msa 플젝 안 나가봐서 모름
-
-service나 client만 만질듯?
-
 oauth 인증 등은 빠져있음
+
